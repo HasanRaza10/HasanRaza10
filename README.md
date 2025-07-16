@@ -18,7 +18,7 @@
     <a href="https://x.com/HasanRaza133977?t=xuSdo_HfbueccDNIAwkvGw&s=09" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
     </a>
-    <a href="https://stackoverflow.com/users/yourstackoverflowid" target="_blank">
+    <a href="https://stackoverflow.com/users/31053411/hasan-raza" target="_blank">
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank" />
     </a>
     <a href="https://medium.com/@yourmediumusername" target="_blank">
