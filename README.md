@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HasanRaza10&label=Profile%20views&color=0e75b6&style=flat" alt="HasanRaza10" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, Databases**
+- 💬 Ask me about **Python, JavaScript, React, Node.js, Databases**
 - 📫 How to reach me: **hasanraza6361@gmail.com**
 - 📄 Know about my experiences: [[My Porfolio Link Here](https://hasan-raza-portfolio.onrender.com/)]
 
