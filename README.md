@@ -15,7 +15,7 @@
 ---
 
 ### 🧠 What I Know
-- 💬 Ask me about: `Python`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `PostgreSQL`
+- 💬 Ask me about: `Python`, `JavaScript`, `React`, `Node.js`, `MongoDB`
 - 📫 Reach out: **hasanraza6361@gmail.com**
 - 🌐 Portfolio: [hasan-raza-portfolio.onrender.com](https://hasan-raza-portfolio.onrender.com)
 
