@@ -32,9 +32,6 @@
   <a href="https://stackoverflow.com/users/31053411/hasan-raza" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://medium.com/@yourmediumusername" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
 </p>
 
 ---
